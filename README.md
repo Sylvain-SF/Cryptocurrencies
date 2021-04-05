@@ -11,9 +11,10 @@ We used to achieve this project clustering algorithm from un unsupervised machin
 - Then we apply PCA to reduce dimensions who have been preprocessed to three principal components.
 - In a third part, we create an elbow curve.
 ![](Images/elbow_curve.PNG)
- This part allow us to predict the good amount of clusters for our analysis, then we were able to run the K-means algorithm to make predictions.
+  <br>
+ This part allow us to predict the good amount of clusters for our analysis (4 in this case), then we were able to run the K-means algorithm with a K-number of 4 to make predictions on how to group cryptocurrencies by clusters.
   
 - The last part was to make visualizations of our finding. We create scatter plots to visualize the distinct groups that correspond to the three components created previously. This enables us to showcase all the currently tradable cryptocurrencies.
 ![](Images/tradable_cryptocurrencies.PNG)
-  
+ <br> 
 This results can help the board of Accountability Accounting offering a new cryptocurrency investment portfolio for its customers.
