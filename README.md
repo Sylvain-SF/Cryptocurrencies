@@ -17,4 +17,4 @@ We used to achieve this project clustering algorithm from un unsupervised machin
 - The last part was to make visualizations of our finding. We create scatter plots to visualize the distinct groups that correspond to the three components created previously. This enables us to showcase all the currently tradable cryptocurrencies.
 ![](Images/tradable_cryptocurrencies.PNG)
  <br> 
-This results can help the board of Accountability Accounting offering a new cryptocurrency investment portfolio for its customers.
+This results can help the board of Accountability Accounting offering a new cryptocurrency investment portfolio for its customers in the 532 cryptocurrencies we were able to extract from this dataset.
